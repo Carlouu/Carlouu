@@ -69,19 +69,14 @@
 
 </pre><br>
 
-<h2 align="center">Social media</h2>
 
 <h2 align="center"</h2>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Carlouudm)
-<a target="_blank" href="https://discord.gg/MBTkVcJefp"><img alt="Discord" src="https://img.shields.io/badge/Hex | Project%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
-<a target="_blank" href="https://twitter.com/Carlouu2"><img alt="Twitter" src="https://img.shields.io/badge/@Carlouu-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
+    <a href="https://discord.com/users/805123831412949043">
         <img title="Carlouu server discord" alt="Carlouu's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
     </a>
 </p>
