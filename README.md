@@ -3,7 +3,7 @@
   
 <p align="center">
   
-![BANNER_Carlouu_GITHUB](https://user-images.githubusercontent.com/94861415/179736220-e757c236-3de4-4db0-a371-bb5bed2fc497.png)
+![BANNER_Carlouu_GITHUB](https://cdn.discordapp.com/attachments/945321842229538816/1013528919305101343/179736220-e757c236-3de4-4db0-a371-bb5bed2fc497.png)
 
 
 
