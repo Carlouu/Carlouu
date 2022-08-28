@@ -77,7 +77,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/805123831412949043">
-        <img title="Carlouu server discord" alt="Carlouu's discord" src="https://discord.c99.nl/widget/theme-2/805123831412949043.png"/>
+        <img title="Carlouu server discord" alt="Carlouu's discord" src="https://discord.c99.nl/widget/theme-5/805123831412949043.png"/>
     </a>
 </p>
 
