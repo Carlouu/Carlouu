@@ -66,7 +66,7 @@
 
 - ⚡ Website [Carlouu.com](https://Carlouu.github.io/Carlouu.github.io/) | It's Just an Introduction and **Work History.**
 
-- 💬 Discord [Carlouu#7522](https://discord.com/users/943374631644045363) | [HEX PROJECT](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [Carlouu#7522](https://discord.com/users/805123831412949043) 
 
 </pre><br>
 
